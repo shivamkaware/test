@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Condensed:ital,wght@0,700;1,400;1,700&display=swap');
+h1{
+    
+    
+    color: rgb(244, 47, 47);
+   
+    width:250px;
+    font-size: 70px;
+    text-align: center;
+   
+    
+  
+}
+body{
+    background-color: rgb(152, 234, 234);
+}
+image{
+    margin: 30px auto;
+    display: block;
+    align-items:center;
+}
+.banner{
+    background-color: aliceblue;
+    padding-bottom: auto;
+}
+p{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 70px;
+    font-family:Montserrat ;
+}
